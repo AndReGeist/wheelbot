@@ -1,6 +1,6 @@
-# wheelbot-v2.5
+# wheelbot
 
-This repository contains all files required to build a Wheelbot v2.5.
+This repository contains all files required to build a Wheelbot.
 
 Project page:  [https://sites.google.com/view/wheelbot/start](https://sites.google.com/view/wheelbot/start)
 
