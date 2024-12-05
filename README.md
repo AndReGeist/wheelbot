@@ -1,8 +1,13 @@
-# wheelbot
+<h1 align="center">
+  <br>
+  Hitchhiking Rotations
+  <br>
+</h1>
 
 This repository contains all files required to build a Wheelbot.
 
 Project page:  [https://sites.google.com/view/wheelbot/start](https://sites.google.com/view/wheelbot/start)
+Paper link: [https://arxiv.org/abs/2207.06988](https://arxiv.org/abs/2207.06988)
 
 ## [/CAD files](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/CAD%20files)
 Contains the CAD files of the Wheelbot v2.5 as stl-files.
@@ -55,7 +60,20 @@ Contains the firmware that runs on a Maevarm M2 being connected to a PC and that
 ### /firmware/computer-python-interface
 Python program running on Ubuntu 18.04 LTS collecting incoming data/outgoing commands from/to the wifi dongle.
 
-# Erratum
+## BibTex
+```
+@ARTICLE{geist2022wheelbot,
+  author={Geist, A. Ren\'{e} and Fiene, Jonathan and Tashiro, Naomi and Jia, Zheng and Trimpe, Sebastian},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={The Wheelbot: A Jumping Reaction Wheel Unicycle}, 
+  year={2022},
+  volume={7},
+  number={4},
+  pages={9683-9690}
+}
+```
+
+## Erratum
 In the initial publication, in Equation (3), the transform from averaged body rates ${}^{\text{B}}\omega_i$ to Euler rates was incorrectly denoted as
 
 ```math
