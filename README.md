@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Hitchhiking Rotations
+  Wheelbot
   <br>
 </h1>
 
