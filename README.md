@@ -10,6 +10,8 @@ Project page:  [https://sites.google.com/view/wheelbot/start](https://sites.goog
 
 Paper link: [https://arxiv.org/abs/2207.06988](https://arxiv.org/abs/2207.06988)
 
+🎉 The Mini Wheelbot - an **improved version of the Wheelbot** is available here: [https://github.com/wheelbot/mini-wheelbot](https://github.com/wheelbot/mini-wheelbot) 🎉
+
 ## [/CAD files](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/CAD%20files)
 Contains the CAD files of the Wheelbot v2.5 as stl-files.
 
@@ -146,3 +148,5 @@ R_2^T R_1^T e_3
 Importantly, **our results on tilt estimation using accelerometers** as depicted in Figure 10 **are not affected by this error**. In the first experiment (Figure 10, left) the robot's tilt angles were kept at zero. In the second experiment (Figure 10, right), $q_1 \approx 0$ such that $\tan(q_1) \approx q_1$. In turn, both transforms deviated only marginally from each other in both experiments.
 
 We added a [Jupyter notebook](https://github.com/AndReGeist/wheelbot-v2.5/blob/main/erratum_bodyrate_transform.ipynb) to the projects Github repository detailing the calculation of the transform from body rates to Euler rates. 
+
+
