@@ -10,7 +10,8 @@ Project page:  [https://sites.google.com/view/wheelbot/start](https://sites.goog
 
 Paper link: [https://arxiv.org/abs/2207.06988](https://arxiv.org/abs/2207.06988)
 
-🎉 The Mini Wheelbot - an **improved version of the Wheelbot** is available here: [https://github.com/wheelbot/mini-wheelbot](https://github.com/wheelbot/mini-wheelbot) 🎉
+🎉 The Mini Wheelbot - an **improved version of the Wheelbot** is now available! 🎉
+[github.com/wheelbot/mini-wheelbot](https://github.com/wheelbot/mini-wheelbot)
 
 ## [/CAD files](https://github.com/AndReGeist/wheelbot-v2.5/tree/main/CAD%20files)
 Contains the CAD files of the Wheelbot v2.5 as stl-files.
